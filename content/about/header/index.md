@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, I am Feli!
+  Hi, I am Felix!
 ---
 
 <!-- this is a subheadline -->
