@@ -1,8 +1,8 @@
 baseURL = "https://kaleidoscopic-travesseiro-99c8e0.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Test"
-author = "Alison Hill"
+title = "Felix Lanver"
+author = "Felix Lanver"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
