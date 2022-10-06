@@ -17,12 +17,12 @@ show_button_links: false
 show_post_date: true
 show_post_thumbnail: true
 sidebar: 
-  author: Felix Lanver
-  description: "Welcome"
+  author: 
+  description: ""
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: A Sidebar for Your Thoughts
+  title: 
 thumbnail_left: true
 title: Projects, Thoughts and Publications
 ---
