@@ -4,22 +4,25 @@ categories:
 
 date: "2022-10-04"
 draft: false
-excerpt: Coming soon. Trying to combine my passion for German post-war literature, social media and coding, I am working on building a Twitter bot that sends automized snippets from Uwe Johnsons magnum opus "Jahrestage" (Anniversaries).
+excerpt: Coming soon. We created a global data set on LGBTQI+ rights with my colleague Mara Junge
 layout: single
 subtitle: 
-title: Uwe Johnson Bot 
+title: SSM Data Set 
 ---
 
-All of this started with the idea of learning Python. From my R learning journey I already knew it makes sense to find yourself a project instead of trying to 
-So I told myself to build a Twitter bot.
+Coming soon.
 
-Tried to get into VS Code
+This data set contains information on the legal status of the LGBTQI+ communities around the globe.
+We show year where same sex marriage became legal and the political conditions of same sex marriage legalization.
 
-The best part: I would re-read my favorite book and build a data set with quotes from one of my all-time favourite books.
-For those who don't know: Uwe Johnsons "Jahrestage" is actually constructed as a diary, meaning the main character reports daily from here life (and her family history) from August 1967 to August 19XX
+Also, the data set gives information on other LGBTQI+ matters, such as third gender, child adoption, trans_recognitions
+
+Furthermore, we collected data on public opinion on the matter of gay marriage
 
 ![](uwe-johnson-1974.jpeg)
 
-## and so on
+## further info
+
+you can download the data set here.
 
 
