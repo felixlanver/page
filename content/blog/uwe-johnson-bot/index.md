@@ -2,7 +2,7 @@
 author: Felix Lanver
 categories: 
 
-date: "2022-10-29"
+date: "2022-10-04"
 draft: false
 excerpt: Coming soon. Trying to combine my passion for German post-war literature, social media and coding, I am working on building a Twitter bot that sends automized snippets from Uwe Johnsons magnum opus "Jahrestage" (Anniversaries).
 layout: single
