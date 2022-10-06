@@ -21,8 +21,8 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: A Sidebar for Your Projects
-title: A Project Portfolio To Grow
+  title: List of Publications
+title: Only academic publications here.
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
