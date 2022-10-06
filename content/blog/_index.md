@@ -1,5 +1,5 @@
 ---
-author: The R Markdown Team @RStudio
+author: ""
 cascade:
   author: Felix Lanver
   show_author_byline: true
@@ -9,8 +9,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent posts
     text_link_url: /blog/
-description: "This is a fully featured blog that supports categories, \ntags, series,
-  and pagination.\n"
+description: "Have a look on what I've been working on!"
 layout: list-grid # put list-sidebar if sidebar wanted
 show_author_byline: true
 show_button_links: false
