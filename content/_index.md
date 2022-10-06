@@ -5,7 +5,7 @@ action_type: text
 description: I am a Doctoral Researcher at the SOCIUM Research Institute on Inequality and Social Policy. My research interests include the political economy of the welfare state, unemployment protection, state formation as well as long-term effects and path dependencies of social policy. I am also interested in coding and data science.
 image_left: false 
 images:
-- img/felix.png
+- img/felix2.png
 show_action_link: true
 show_social_links: true
 subtitle: Doctoral Researcher @ University of Bremen
