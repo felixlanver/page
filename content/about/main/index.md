@@ -14,7 +14,7 @@ intro: |
   
   I also build a data set on LGBTQI+ rights with my fellow PhD researcher Mara Junge. 
   
-  As a student assistant I co-created the Global Work Injury Policy Database ([GWIP](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IVKYIE)) with Nate Breznau.
+  As a student assistant I co-created the Global Work Injury Policy Database (GWIP) with Nate Breznau.
   
   I hold a Master's degree in Global Politics and Society from the University of Milan and a Bachelor's degree in Integrated European Studies and a Master's degree in European Labour Studies and Social Policy from the University of Bremen.
    
