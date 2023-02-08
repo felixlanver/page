@@ -3,7 +3,7 @@ cascade:
   headless: true
 description: |
   A PhD Researcher. Political Economy of the Welfare State
-show_header: true
+show_header: false
 sidebar_left: false
 title: About Felix
 ---
