@@ -5,8 +5,7 @@ number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
-intro: |
-  I'm a PhD Researcher at the CRC 1342 "Global Dynamics of Social Policy" at the University of Bremen, where I conduct research on the global development of unemployment protection schemes with a regional focus on Latin America.
+intro:  I'm a PhD Researcher at the CRC 1342 "Global Dynamics of Social Policy" at the University of Bremen, where I conduct research on the global development of unemployment protection schemes with a regional focus on Latin America.
   
   My academic research is based on data collection and analysis.
   
